@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'sigma',
+    'O que é "mewing"?'
+    'Um exercício de língua' , 
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'sigma',
+    'Nome do animal brainrot italiano que é um tubarão?',
+    'Tralalero Tralala'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'sigmas boys',
+    'Qual termo descreve alguém que é um lobo solitário e pode até ser melhor que um alfa?',
+    'Sigma'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como a gíria "sigma" se relaciona com a ideia de "alfa"?',
+    'A ideia de "sigma" é frequentemente contrastada com a ideia de "alfa", que seria um homem dominante e socialmente extrovertido.'
 )
