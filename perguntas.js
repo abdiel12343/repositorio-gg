@@ -1,7 +1,7 @@
 criaCartao(
     'sigma',
-    'O que é "mewing"?'
-    'Um exercício de língua' , 
+    'O que é "mewing"?',
+    'é um exercício de lingua' 
 )
 
 criaCartao(
@@ -17,7 +17,7 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
+    'sigma',
     'Como a gíria "sigma" se relaciona com a ideia de "alfa"?',
     'A ideia de "sigma" é frequentemente contrastada com a ideia de "alfa", que seria um homem dominante e socialmente extrovertido.'
 )
